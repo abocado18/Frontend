@@ -1,0 +1,7 @@
+{
+  "name": "JukeFrontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
